@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I spent a lot of time on the horizontal picker view.
+I spent a lot of time on the horizontal picker view, including how to get the picker view work in the main storyboard,as well as customizing the style of picker view, and how to make the background gradient color change when the % is changing. It's my first time working with Xcode, so I spent a lot of time looking for information online. But it's a lot of fun! 
 
 ## License
 
