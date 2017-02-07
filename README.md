@@ -13,14 +13,14 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [x] Custom font
-* [x] UI animations
+* [ ] UI animations
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [x ] Added a horizontal picker view to choose tip percentage
-- [x ] Make the background color change to bring delightfulness to the app
-- [x ] Made 15% as the default tip percentage so the user could see the tip and total amount once they put the number in.
+- [x] Added a horizontal picker view to choose tip percentage
+- [x] Make the background color change to bring delightfulness to the app
+- [x] Made 15% as the default tip percentage so the user could see the tip and total amount once they put the number in.
 
 
 ## Video Walkthrough 
@@ -33,11 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I spent a lot of time on the horizontal picker view.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Hongyuan Jiang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
